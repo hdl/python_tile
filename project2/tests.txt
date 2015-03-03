@@ -1,0 +1,126 @@
+checkTile 5 two
+True
+isEmptyOnThree 8 3
+True
+checkTile 7 two
+True
+checkTile 9 two
+False
+checkTile 1 three
+True
+checkTile 1 four
+True
+checkTile 1 five
+True
+checkTile 9 three
+True
+checkTile 5 one
+False
+checkTile 10 two
+True
+checkTile 3 five
+True
+checkTile 8 two
+False
+checkTile 3 four
+True
+checkTile 11 two
+True
+checkTile 11 one
+False
+checkTile 11 five
+True
+checkTile 11 four
+False
+checkTile 12 one
+True
+checkTile 11 three
+True
+checkTile 4 one
+False
+checkTile 5 one
+False
+checkTile 8 one
+False
+checkTile 7 one
+False
+checkTile 9 two
+False
+checkTile 7 two
+True
+checkTile 2 four
+False
+checkTile 9 four
+True
+isEmptyOnThree 3 3
+False
+isEmptyOnThree 7 3
+True
+isEmptyOnThree 9 3
+False
+isEmptyOnThree 4 1
+invalid
+isEmptyOnThree 3 1
+invalid
+isEmptyOnThree 8 4
+False
+isEmptyOnThree 8 5
+False
+isEmptyOnThree 8 10
+False
+isEmptyOnThree 8 7
+True
+isEmptyOnThree 8 6
+True
+isEmptyOnThree 12 20
+False
+isEmptyOnThree 20 12
+False
+isEmptyOnThree 40 20
+False
+isEmptyOnThree 21 20
+True
+isEmptyOnThree 8 2
+invalid
+isEmptyOnThree 3 2
+invalid
+isEmptyOnThree 5 2
+invalid
+isEmptyOnThree 40 18
+True
+isEmptyOnThree 59 18
+False
+isEmptyOnThree 90 30
+False
+isEmptyOnThree 7 2
+invalid
+isEmptyOnThree 10 3
+False
+isEmptyOnThree 17 5
+False
+isEmptyOnThree 12 5
+True
+isEmptyOnThree 13 5
+True
+isEmptyOnThree 8 5
+False
+isEmptyOnThree 22 5
+invalid
+isEmptyOnThree 90 5
+invalid
+isEmptyOnThree 15 3
+invalid
+isEmptyOnThree -3 5
+invalid
+isEmptyOnThree 8 -5
+invalid
+isEmptyOnThree -8 -5
+invalid
+checkTile -3 five
+False
+checkTile 0 five
+False
+isEmptyOnThree 0 3
+invalid
+isEmptyOnThree 15 0
+invalid
